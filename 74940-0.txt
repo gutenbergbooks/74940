@@ -1,4 +1,3 @@
-﻿
 *** START OF THE PROJECT GUTENBERG EBOOK 74940 ***
 
 
@@ -1237,8 +1236,6 @@ Words may have inconsistent hyphenation in the text; these were
 not changed. Quotation marks and final stops missing at the end of
 sentences and abbreviations were added. “Hits.” was changed to “Hist.”
 “… Mass. Hist. Soc. Coll.…”
-
-
 
 
 *** END OF THE PROJECT GUTENBERG EBOOK 74940 ***
